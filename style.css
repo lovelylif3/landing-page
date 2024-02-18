@@ -121,7 +121,8 @@ img {
 .banner {
     display: flex;
     background-color: #3882f6;
-    padding: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
     border-radius: 7px;
 }
 
@@ -130,6 +131,7 @@ img {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-start;
+    color: #f9faf8;
 }
 
 footer {
