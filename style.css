@@ -145,6 +145,8 @@ img {
 
 .signupbutton {
     border-radius: 7px;
+    background-color: #3882f6;
+    border: 2px solid white;
 }
 
 footer {
@@ -153,4 +155,5 @@ footer {
     justify-content: center;
     align-items: center;
     color: #f9faf8;
+    padding: 30px;
 }
