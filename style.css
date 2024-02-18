@@ -79,15 +79,9 @@ button {
     cursor: pointer;
 }
 
-.imageholder {
-    background-color: #a9a9a9;
-    padding: 30px;
+img {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #E5E7EB;
     margin-left: 20px;
-    text-align: center;
 }
 
 .box2 {
