@@ -57,6 +57,14 @@ ul {
     align-items: center;
 }
 
+.heromain {
+    font-size: 48px;
+    font-style: bold;
+    color: #f9faf8;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
@@ -100,14 +108,6 @@ ul {
     justify-content: center;
     align-items: center;
     padding: 100px;
-}
-
-.heromain {
-    font-size: 48px;
-    font-style: bold;
-    color: #f9faf8;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .banner {
