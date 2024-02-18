@@ -3,6 +3,10 @@ body {
     
 }
 
+h1, h3, p {
+    padding: 0;
+    margin: 0;
+}
 html, body {
     margin: 0;
     padding: 0;
@@ -134,8 +138,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
-    justify-content: flex-start;
+
     color: #f9faf8;
 }
 
