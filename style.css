@@ -56,16 +56,25 @@ ul {
 }
 
 .box2 {
-    display: flex; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px; 
 }
 
 .box3 {
     display: flex; 
     background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
 }
 
 .box4 {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 30px 60px 30px;
 }
 
 .heromain {
@@ -79,6 +88,7 @@ ul {
 .banner {
     display: flex;
     background-color: #3882f6;
+    padding: 60px;
 }
 
 footer {
@@ -86,4 +96,5 @@ footer {
     background-color: #1F2937;
     justify-content: center;
     align-items: center;
+    color: #f9faf8;
 }
