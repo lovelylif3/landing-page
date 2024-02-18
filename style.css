@@ -76,7 +76,7 @@ button {
     border: 0;
     padding: 7px 20px 7px 20px;
     border-radius: 7px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .imageholder {
@@ -123,6 +123,7 @@ button {
     display: flex;
     background-color: #3882f6;
     padding: 60px;
+    border-radius: 7px;
 }
 
 footer {
