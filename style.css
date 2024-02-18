@@ -102,6 +102,10 @@ img {
     padding: 100px; 
 }
 
+.icon {
+    width: 70px;
+    height: 70px;
+}
 .infoheader {
     font-size: 36px;
 }
@@ -111,9 +115,25 @@ img {
     background-color: #e5e7eb;
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    padding: 100px 300px 100px 300px;
 }
 
+.box3quote {
+    display: flex;
+    flex-flow: wrap column;
+}
+
+.quote {
+    font-size: 36px; 
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.quotename {
+    font-size: 24px;
+    text-align: right;
+}
 .box4 {
     display: flex;
     justify-content: center;
