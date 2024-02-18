@@ -103,8 +103,14 @@ img {
 }
 
 .icon {
-    width: 70px;
-    height: 70px;
+    width: 120px;
+    height: 120px;
+}
+
+.icongroup {
+    display: flex;
+    flex-flow: wrap row;
+
 }
 .infoheader {
     font-size: 36px;
