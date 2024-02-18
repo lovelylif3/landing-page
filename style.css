@@ -70,6 +70,15 @@ ul {
     color: #E5E7EB;
 }
 
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 0;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+    cursor:pointer;
+}
+
 .imageholder {
     background-color: #a9a9a9;
     width: 500px;
