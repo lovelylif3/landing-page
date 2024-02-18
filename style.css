@@ -15,8 +15,8 @@ header {
     align-items: center;
     color: #f9faf8;
     background-color: #1F2937;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .links {
@@ -48,13 +48,17 @@ ul {
     justify-content: space-between;
     align-items: center;
     display: flex;
-    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .box1fr {
     display: wrap;
     justify-content: center;
     align-items: center;
+    padding: 60px;
 }
 
 .heromain {
@@ -74,7 +78,7 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     border: 0;
-    padding: 7px 20px 7px 20px;
+    padding: 7px 24px 7px 24px;
     border-radius: 7px;
     cursor: pointer;
 }
@@ -108,7 +112,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .banner {
