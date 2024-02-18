@@ -77,12 +77,11 @@ button {
     padding: 7px 20px 7px 20px;
     border-radius: 7px;
     cursor: pointer;
+    border-radius: 7px;
 }
 
 .imageholder {
     background-color: #a9a9a9;
-    width: 500px;
-    height: 100px;
     padding: 30px;
     display: flex;
     justify-content: center;
