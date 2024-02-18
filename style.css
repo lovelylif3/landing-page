@@ -58,7 +58,7 @@ ul {
     display: wrap;
     justify-content: center;
     align-items: center;
-    padding: 60px;
+    padding-right: 100px;
 }
 
 .heromain {
@@ -123,6 +123,13 @@ img {
     background-color: #3882f6;
     padding: 60px;
     border-radius: 7px;
+}
+
+.bannertext {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
 }
 
 footer {
